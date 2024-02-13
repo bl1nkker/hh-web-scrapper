@@ -12,8 +12,8 @@ from selenium.webdriver.common.keys import Keys
 import pandas as pd
 from openpyxl import load_workbook
 
-LOGIN = "77753378824"
-PASSWORD = "rewq4321"
+LOGIN = "login_here"
+PASSWORD = "password_here"
 RESULTS = 100
 VACANCY = 'programmist'
 URL = f"https://hh.kz/vacancies/{VACANCY}"
